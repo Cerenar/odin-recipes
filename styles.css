@@ -1,0 +1,30 @@
+html {
+	background-color: #222222;
+	color: #e0e0e0;
+	font-family: "Segoe UI", "Verdana", sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+li {
+	font-size: 18px;
+}
+
+.homepage-list {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+img {
+	height: auto;
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
